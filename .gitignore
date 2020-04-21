@@ -1,1 +1,5 @@
 # Ignore folders
+
+DeepLearning/NLP/
+DeepLearning/.gitmodules
+DeepLearning/README.md
